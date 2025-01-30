@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Enemy
+  - money
+  - Killer
+  - medicina
+  - medicine
+  - Gift
   layers:
   - Default
   - TransparentFX

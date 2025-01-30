@@ -11,7 +11,7 @@ public class Teleport : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            other.transform.position = target.position;
+            other.transform.position = target.position + new Vector3(0,3,0);
 
         }
     }
